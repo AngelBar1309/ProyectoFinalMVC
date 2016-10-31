@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 
@@ -7,6 +9,7 @@ namespace ProyectoFinalMVC.Models
 {
     public class Clientes
     {
+        [Key]
         public int clienteID { get; set; }
 
         public string nombre { get; set; }
@@ -18,6 +21,10 @@ namespace ProyectoFinalMVC.Models
         public string direccion { get; set; }
 
         public int telefono { get; set; }
+
+        public Image imagen { get; set; }
+
+        virtual public Confirmacion confirmacion { get; set; }
 
 
 
