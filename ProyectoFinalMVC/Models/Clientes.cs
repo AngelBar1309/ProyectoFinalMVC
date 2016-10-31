@@ -24,7 +24,7 @@ namespace ProyectoFinalMVC.Models
 
         public Image imagen { get; set; }
 
-        virtual public Confirmacion confirmacion { get; set; }
+        
 
 
 

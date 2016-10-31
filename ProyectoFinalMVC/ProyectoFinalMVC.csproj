@@ -204,7 +204,6 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Citas.cs" />
     <Compile Include="Models\Clientes.cs" />
-    <Compile Include="Models\Confirmacion.cs" />
     <Compile Include="Models\Dentistas.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />

@@ -17,9 +17,9 @@ namespace ProyectoFinalMVC.Models
 
         public DateTime fechaFinal { get; set; }
 
-        public int confirmacionID { get; set; }
+        
 
-        public virtual Confirmacion confirmacion { get; set; }
+        
 
     }
 }
