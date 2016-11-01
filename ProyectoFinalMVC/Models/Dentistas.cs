@@ -7,6 +7,7 @@ namespace ProyectoFinalMVC.Models
 {
     public class Dentistas
     {
+
         public int dentistasID { get; set; }  
   
         public int nombre { get; set; }  

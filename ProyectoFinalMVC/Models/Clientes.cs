@@ -10,7 +10,7 @@ namespace ProyectoFinalMVC.Models
     public class Clientes
     {
         [Key]
-        public int clienteID { get; set; }
+        public int clientesID { get; set; }
 
         public string nombre { get; set; }
 
@@ -22,11 +22,6 @@ namespace ProyectoFinalMVC.Models
 
         public int telefono { get; set; }
 
-        public Image imagen { get; set; }
-
         
-
-
-
     }
 }
