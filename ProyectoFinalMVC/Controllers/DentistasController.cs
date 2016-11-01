@@ -17,7 +17,7 @@ namespace ProyectoFinalMVC.Controllers
         // GET: Dentistas
         public ActionResult Index()
         {
-            return View(db.dentistas.ToList());
+            return View();
         }
 
         // GET: Dentistas/Details/5
