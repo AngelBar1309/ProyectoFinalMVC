@@ -20,7 +20,7 @@ namespace ProyectoFinalMVC.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        public DbSet <Clientes> clientes{get; set; }
+        public DbSet <Clientes> clientes{get; set;}
         public DbSet<Dentistas> dentistas { get; set; }
         public DbSet <Citas> citas { get; set; }
 
