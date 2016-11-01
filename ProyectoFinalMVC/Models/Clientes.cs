@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Drawing;
+
 using System.Linq;
 using System.Web;
 
@@ -22,7 +22,7 @@ namespace ProyectoFinalMVC.Models
 
         public int telefono { get; set; }
 
-        public Image imagen { get; set; }
+        
 
         
 

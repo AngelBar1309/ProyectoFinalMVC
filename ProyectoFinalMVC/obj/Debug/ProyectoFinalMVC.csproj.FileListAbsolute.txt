@@ -77,6 +77,5 @@ C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\bin\Microsoft.Owin.Secu
 C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.csprojResolveAssemblyReference.cache
 C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.dll
 C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.pdb
