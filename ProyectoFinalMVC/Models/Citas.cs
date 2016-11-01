@@ -11,15 +11,19 @@ namespace ProyectoFinalMVC.Models
         [Key]
         public int citaID { get; set; }
 
-        virtual public  Dentistas dentista { get; set; }
+        public DateTime fechaIn { get; set; }
+
+        public DateTime fechaOn { get; set; }
 
         public int dentistaID { get; set; }
 
-        public DateTime fechaFinal { get; set; }
+        virtual public Dentistas dentista { get; set; }
 
-        
+        virtual public Citas citas { get; set; }
 
-        
+
+
+
 
     }
 }
