@@ -15,17 +15,11 @@ namespace ProyectoFinalMVC.Models
 
         public int dentistaID { get; set; }
 
-        public DateTime fechaIn { get; set; }
+        public DateTime fechaFinal { get; set; }
 
-        public DateTime fechaOut { get; set; }
+        
 
-        public double costo { get; set; }
-
-        public string comentarios { get; set; }
-
-        virtual public Dentistas dentistas { get; set; }
-
-        virtual public Clientes clientes { get; set; }
+        
 
     }
 }
