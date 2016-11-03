@@ -22,9 +22,9 @@ namespace ProyectoFinalMVC.Models
 
         public int telefono { get; set; }
 
-        
 
-        
+
+
 
 
 
