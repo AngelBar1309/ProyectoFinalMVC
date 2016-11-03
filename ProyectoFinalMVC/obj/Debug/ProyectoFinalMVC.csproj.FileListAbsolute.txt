@@ -161,3 +161,4 @@ C:\Users\mercu\Source\Repos\ProyectoFinalMVC\ProyectoFinalMVC\bin\Microsoft.Owin
 C:\Users\mercu\Source\Repos\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.csprojResolveAssemblyReference.cache
 C:\Users\mercu\Source\Repos\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.dll
 C:\Users\mercu\Source\Repos\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.pdb
+C:\Users\Angel\Desktop\ProyectoFinalMVC\ProyectoFinalMVC\obj\Debug\ProyectoFinalMVC.csprojResolveAssemblyReference.cache

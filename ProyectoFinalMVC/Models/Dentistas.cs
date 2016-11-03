@@ -8,8 +8,8 @@ namespace ProyectoFinalMVC.Models
     public class Dentistas
     {
 
-        public int dentistasID { get; set; }  
-  
+        public int dentistasID { get; set; }
+        
         public int nombre { get; set; }  
   
         public string especialidad { get; set; }  
