@@ -17,9 +17,17 @@ namespace ProyectoFinalMVC.Models
 
         public int dentistaID { get; set; }
 
-        virtual public Dentistas dentista { get; set; }
+        public bool Confirmacion { get; set; }
 
-        virtual public Citas citas { get; set; }
+        public String Comentario { get; set; }
+
+        virtual public ICollection<Dentistas> dentista { get; set; }
+
+        virtual public ICollection<Clientes> cliente
+        {
+            get;
+            set;
+        }
 
 
 
